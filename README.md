@@ -2,7 +2,7 @@ Hi there 👋
 
 🏆 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/kundan_333)
+<!--![LeetCode Stats](https://leetcard.jacoblin.cool/kundan_333)
 
 ---
 
