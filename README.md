@@ -1,4 +1,6 @@
 ## Hi there 👋
+LeetCode Batch
+<img src="https://assets.leetcode.com/static_assets/others/2025.gif" width="120">
 
 <!--
 **kundansingh333/kundansingh333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
