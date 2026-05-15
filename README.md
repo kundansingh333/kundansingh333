@@ -1,31 +1,166 @@
-Hi there 👋
+## Hi 👋 I'm Kundan Kumar Singh
 
-🏆 LeetCode Stats
+💻 Full Stack MERN Developer  
+🎓 B.Tech Computer Science Student at Lovely Professional University  
 
-<!--![LeetCode Stats](https://leetcard.jacoblin.cool/kundan_333)-->
+I enjoy building scalable web applications, designing robust backend systems, and solving complex problems using data structures and algorithms.  
+Recently, I’ve expanded my expertise into **DevOps and Cloud Engineering**, focusing on automation, CI/CD, and containerized deployments.
 
 ---
 
-🥇 LeetCode Badges
+## 🏆 GitHub Trophies
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kundansingh333&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://assets.leetcode.com/static_assets/others/100.gif" width="120"><img src="https://assets.leetcode.com/static_assets/others/50.gif" width="120"><img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="120">
+---
 
+## 🧑‍💻 Programming Languages
 
+<p align="center">
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" width="60"/><br>Java</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="60"/><br>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="60"/><br>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="60"/><br>C++</td>
+</tr>
+</table>
+</p>
 
+---
 
+## 🎨 Frontend Development
 
-<!--
-**kundansingh333/kundansingh333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="60"/><br>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="60"/><br>HTML</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="60"/><br>CSS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="60"/><br>Tailwind</td>
+</tr>
+</table>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Backend Development
+
+<p align="center">
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="60"/><br>Express.js</td>
+</tr>
+</table>
+</p>
+
+---
+
+## 🗄 Database
+
+<p align="center">
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="60"/><br>PostgreSQL</td>
+</tr>
+</table>
+</p>
+
+---
+
+## 🚀 DevOps & Cloud
+
+<p align="center">
+<table>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="60"/><br>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="60"/><br>GitHub Actions</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=jenkins" width="60"/><br>Jenkins</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="60"/><br>Docker</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="60"/><br>Kubernetes</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="60"/><br>AWS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=terraform" width="60"/><br>Terraform</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ansible" width="60"/><br>Ansible</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=maven" width="60"/><br>Maven</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="60"/><br>Linux</td>
+</tr>
+
+</table>
+</p>
+
+<p align="center">
+
+![Nexus](https://img.shields.io/badge/Nexus-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+</p>
+
+---
+
+## 🛠 Tools & Technologies
+
+<p align="center">
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="60"/><br>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="60"/><br>Postman</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="60"/><br>Docker</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="60"/><br>Figma</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="60"/><br>VS Code</td>
+</tr>
+</table>
+</p>
+
+---
+
+## 🧠 Core Skills
+
+- Data Structures & Algorithms  
+- System Design Basics  
+- REST API Development  
+- CI/CD Pipelines  
+- Containerization & Orchestration  
+- Infrastructure as Code (IaC)  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kundansingh333&show_icons=true&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundansingh333&layout=compact&theme=tokyonight" height="180"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=kundansingh333&theme=tokyonight" height="180"/>
+
+</p>
+
+---
+
+## 🏆 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/kundan_333)
+
+---
+
+## 🥇 LeetCode Badges
+
+<img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="120">     <img src="https://assets.leetcode.com/static_assets/others/2025.gif" width="120">     <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="120">     <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="120">     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="120">
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/kundankumar333/
