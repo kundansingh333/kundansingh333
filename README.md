@@ -1,3 +1,17 @@
+
+## Hi 👋 I'm Kundan Kumar Singh
+
+<img src="https://avatars.githubusercontent.com/u/137698165?s=400&u=bb608921f516b3709c6d9898dcb7ac733f9df4fe&v=4" alt="Kundan Kumar Singh" width="200" style="border-radius:50%;" />
+
+💻 Full Stack MERN Developer  
+🎓 B.Tech Computer Science Student at Lovely Professional University  
+
+I enjoy building scalable web applications, designing robust backend systems, and solving complex problems using data structures and algorithms.  
+
+Recently, I’ve expanded my expertise into **DevOps and Cloud Engineering**, focusing on automation, CI/CD, and containerized deployments.
+
+
+
 ## Hi 👋 I'm Kundan Kumar Singh
 
 💻 Full Stack MERN Developer  
