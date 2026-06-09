@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋 I'm Kundan Kumar Singh</h1>
+<h1 align="center">Hi  I'm Kundan Kumar Singh</h1>
 
 <p align="center">
   <img 
