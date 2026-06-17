@@ -7,7 +7,7 @@
     alt="Kundan Kumar Singh" 
     width="200"
     height="200"
-    style="border-radius: 80%; object-fit: cover;"
+    style="border-radius: 75%; object-fit: cover;"
   />
 </p>
 
